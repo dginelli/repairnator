@@ -58,9 +58,9 @@
     </distributionManagement>
 
     <modules>
-        <module>repairnator-pipeline</module>
-        <module>repairnator-core</module>
-        <module>repairnator-realtime</module>
+        <module>src/repairnator-pipeline</module>
+				<module>src/repairnator-core</module>
+				<module>src/repairnator-realtime</module>
     </modules>
 
     <repositories>
