@@ -4,7 +4,8 @@
         <artifactId>repairnator-root</artifactId>
         <groupId>fr.inria.repairnator</groupId>
         <version>${revision}</version>
-    </parent>
+				<relativePath>../../</relativePath>
+			</parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>repairnator-pipeline</artifactId>
